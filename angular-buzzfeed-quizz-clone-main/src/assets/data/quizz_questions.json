@@ -1,0 +1,55 @@
+{
+  "title":"Você é do tipo que acumula calorias ou esta indo no caminho saudavel ?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Prefere hamburguer ou salada ?",
+      "options":[
+        {"id": 1, "name":"Cachorro quente", "alias":"A"},
+        {"id": 2, "name":"Legumes", "alias":"B"},
+        {"id": 3, "name":"Hamburguer", "alias":"A"},
+        {"id": 4, "name":"Arroz", "alias":"B"},
+        {"id": 5, "name":"Batat frita", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "Prefere Fazer exercicios ou dormir  ate tarde ?",
+      "options":[
+        {"id": 1, "name":"Caminhar", "alias":"A"},
+        {"id": 2, "name":"Malhar", "alias":"A"},
+        {"id": 3, "name":"Acordar depois das 10", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "no restaurante aonde voce vai primeiro ?",
+      "options":[
+        {"id": 1, "name":"busca carboidratos", "alias":"B"},
+        {"id": 2, "name":"rejeita fritura", "alias":"A"},
+        {"id": 3, "name":"Não curte batat frita", "alias":"A"},
+        {"id": 4, "name":"Peixinho talvez", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu maior foco ?",
+      "options":[
+        {"id": 1, "name":"Malhar", "alias":"A"},
+        {"id": 2, "name":"Relaxar", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual frase mais se asemelha ?",
+      "options":[
+        {"id": 1, "name":"a hora é agora", "alias":"A"},
+        {"id": 2, "name":"deixa pra depois", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você muito provavelmente seria Super Saude!",
+    "B": "Precisa fazer mais esforços esta chegando la"
+  }
+}
